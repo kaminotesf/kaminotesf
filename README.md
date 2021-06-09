@@ -6,14 +6,18 @@
 
 
 ### Skills 
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-![](https://img.shields.io/badge/Python-3.6+-blue.svg?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python)
 
 
 ### Free time
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
+
+### To-do list
+
+
+---
 
 ![info](https://github-readme-stats.vercel.app/api?username=kaminotesf&show_icons=true&count_private=true&hide=prs&theme=dark)
 
