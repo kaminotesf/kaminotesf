@@ -13,18 +13,17 @@
 ![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
 
 
-
-
-
 ### Free time
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 ![](https://img.shields.io/badge/Play%20Station-171a21?style=flat-square&logo=playstation-5&logoColor=ffffff)
 
 
 
 ### To-do list
-
+- [ ] Review classical mechanics.
+- [ ] Study trapped-ion quantum devices.
+- [ ] Organize the knowledge base.
+- [ ] Build a new personal webpage.
 
 ---
 
