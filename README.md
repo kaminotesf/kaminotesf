@@ -1,11 +1,11 @@
-### About me
+### About me:
 
 - :telescope: I am an upcoming physics Ph.D. student at Georgia Tech. 
 - :mag: My research focuses on quantum computing and near-term quantum devices.
 - :email: How to reach me: zhixinsong0524@gmail.com
 
 
-### Skills 
+### Skills: 
 ![](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Julia-blueviolet.svg?style=flat-square&logo=julia&logoColor=ffffff)
 ![](https://img.shields.io/badge/Qiskit-black.svg?style=flat-square&logo=qiskit)
@@ -13,16 +13,17 @@
 ![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
 
 
-### Free time
+### Free time:
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 ![](https://img.shields.io/badge/Play%20Station-171a21?style=flat-square&logo=playstation-5&logoColor=ffffff)
 
 
 
-### To-do list
+### To-do list:
 - [ ] Review classical mechanics.
 - [ ] Study trapped-ion quantum devices.
 - [ ] Organize the knowledge base.
+- [ ] Update CV.
 - [ ] Build a new personal webpage.
 
 ---
