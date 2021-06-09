@@ -6,7 +6,14 @@
 
 
 ### Skills 
-![](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Python-white.svg?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Julia-white.svg?style=flat-square&logo=julia)
+![](https://img.shields.io/badge/Qiskit-black.svg?style=flat-square&logo=qiskit)
+![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
+![](https://img.shields.io/badge/TensorFlow-white.svg?style=flat-square&logo=tensorflow)
+![](https://img.shields.io/badge/Adobe Illustrator-white.svg?style=flat-square&logo=adobe-illustrator)
+
+
 
 
 ### Free time
