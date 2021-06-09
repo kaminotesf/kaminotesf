@@ -1,7 +1,8 @@
 ### About me
 
-
-I am an upcoming physics Ph.D. student at Georgia Tech focusing on quantum computing research.
+- :school: I am an upcoming physics Ph.D. student at Georgia Tech. 
+- :question: My research focuses on quantum computing and near-term quantum devices.
+- :email: How to reach me: zhixinsong0524@gmail.com
 
 
 ### Skills 
@@ -13,7 +14,6 @@ I am an upcoming physics Ph.D. student at Georgia Tech focusing on quantum compu
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
 
-### Github Statistics
 ![info](https://github-readme-stats.vercel.app/api?username=kaminotesf&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 <!--
