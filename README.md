@@ -6,12 +6,12 @@
 
 
 ### Skills 
-![](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python&logoColor=ffffff)
 ![](https://img.shields.io/badge/Julia-green.svg?style=flat-square&logo=julia)
 ![](https://img.shields.io/badge/Qiskit-black.svg?style=flat-square&logo=qiskit)
 ![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
 ![](https://img.shields.io/badge/TensorFlow-blue.svg?style=flat-square&logo=tensorflow)
-![](https://img.shields.io/badge/Adobe%20Illustrator-inactive.svg?style=flat-square&logo=adobe-illustrator)
+![](https://img.shields.io/badge/Adobe%20Illustrator-white.svg?style=flat-square&logo=adobe-illustrator)
 
 
 
@@ -19,6 +19,8 @@
 ### Free time
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
+![](https://img.shields.io/badge/Play%20Station?style=flat-square&logo=playstation-5&logoColor=ffffff)
+
 
 
 ### To-do list
