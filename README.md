@@ -1,4 +1,11 @@
-### Hi there 👋
+### About me
+
+I am an upcoming physics Ph.D. student at Georgia Tech focusing on quantum computing research.
+
+![](https://visitor-badge.glitch.me/badge?page_id=kaminotesf.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=kaminotesf&show_icons=true&count_private=true&hide=prs&theme=dark)
+
 
 <!--
 **kaminotesf/kaminotesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
