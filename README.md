@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Qiskit-black.svg?style=flat-square&logo=qiskit)
 ![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
 ![](https://img.shields.io/badge/TensorFlow-white.svg?style=flat-square&logo=tensorflow)
-![](https://img.shields.io/badge/Adobe Illustrator-white.svg?style=flat-square&logo=adobe-illustrator)
+![](https://img.shields.io/badge/Adobe%20Illustrator-white.svg?style=flat-square&logo=adobe-illustrator)
 
 
 
