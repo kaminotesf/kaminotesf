@@ -1,10 +1,7 @@
 ### About me
-![](https://visitor-badge.glitch.me/badge?page_id=kaminotesf.readme)
+
 
 I am an upcoming physics Ph.D. student at Georgia Tech focusing on quantum computing research.
-
-
-![info](https://github-readme-stats.vercel.app/api?username=kaminotesf&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 
 ### Skills 
@@ -14,6 +11,10 @@ I am an upcoming physics Ph.D. student at Georgia Tech focusing on quantum compu
 ### Free time
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+
+### Github Statistics
+![info](https://github-readme-stats.vercel.app/api?username=kaminotesf&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 <!--
 **kaminotesf/kaminotesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
