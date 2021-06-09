@@ -1,12 +1,13 @@
 ### About me
 
-- :school: I am an upcoming physics Ph.D. student at Georgia Tech. 
-- :question: My research focuses on quantum computing and near-term quantum devices.
+- :telescope: I am an upcoming physics Ph.D. student at Georgia Tech. 
+- :mag: My research focuses on quantum computing and near-term quantum devices.
 - :email: How to reach me: zhixinsong0524@gmail.com
 
 
 ### Skills 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+![](https://img.shields.io/badge/Python-3.6+-blue.svg?style=flat-square&logo=python)
 
 
 ### Free time
