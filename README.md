@@ -7,11 +7,11 @@
 
 ### Skills 
 ![](https://img.shields.io/badge/Python-blue.svg?style=flat-square&logo=python&logoColor=ffffff)
-![](https://img.shields.io/badge/Julia-violet.svg?style=flat-square&logo=julia&logoColor=ffffff)
+![](https://img.shields.io/badge/Julia-blueviolet.svg?style=flat-square&logo=julia&logoColor=ffffff)
 ![](https://img.shields.io/badge/Qiskit-black.svg?style=flat-square&logo=qiskit)
-![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
 ![](https://img.shields.io/badge/TensorFlow-blue.svg?style=flat-square&logo=tensorflow)
-![](https://img.shields.io/badge/Adobe%20Illustrator-white.svg?style=flat-square&logo=adobe-illustrator)
+![](https://img.shields.io/badge/Mathematica-orange.svg?style=flat-square&logo=wolfram-mathematica)
+
 
 
 
