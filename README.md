@@ -16,12 +16,15 @@
 ### Free time
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 ![](https://img.shields.io/badge/Play%20Station-171a21?style=flat-square&logo=playstation-5&logoColor=ffffff)
+![](https://img.shields.io/badge/Raspberry%20Pi-171a21?style=flat-square&logo=raspberry-pi&logoColor=ffffff)
 
 
 
 ### To-do list
 - [ ] Review classical mechanics.
 - [ ] Study trapped-ion quantum devices.
+- [ ] Update CV and contact research mentors.
+- [ ] Organize my knowledge base.
 
 
 ---
