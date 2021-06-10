@@ -22,9 +22,7 @@
 ### To-do list
 - [ ] Review classical mechanics.
 - [ ] Study trapped-ion quantum devices.
-- [ ] Organize the knowledge base.
-- [ ] Update CV.
-- [ ] Build a new personal webpage.
+
 
 ---
 
