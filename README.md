@@ -1,6 +1,6 @@
 ### About me
 
-- :telescope: First year physics Ph.D. student at Georgia Tech. 
+- :telescope: Second year physics Ph.D. student at Georgia Tech. 
 - :mag: My research focuses on quantum computing and near-term quantum devices.
 - :email: How to reach me: zhixinsong0524@gmail.com
 
