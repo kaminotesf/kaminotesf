@@ -1,6 +1,6 @@
 ### About me
 
-- :telescope: 3rd year physics Ph.D. student at Georgia Tech. 
+- :telescope: 4th year physics Ph.D. student at Georgia Tech. 
 - :mag: My research focuses on quantum computing and computational fluid dynamics (CFD).
 - :email: How to reach me: zhixinsong0524@gmail.com
 
